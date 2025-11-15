@@ -2,7 +2,7 @@
 
 ## Assignment Questions:
 
-Answer these questions through visualization (only):
+# Answer these questions through visualization (only):
 
 Data : Use the ‘wti-daily.csv’ and ‘brent-daily.csv’ files into a data frame in which the Date column is treated as a datetime value and is set to be the index.
 
